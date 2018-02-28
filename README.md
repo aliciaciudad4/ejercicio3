@@ -8,3 +8,4 @@
 ### Minified: Sólo está el CSS y HTML minificado antes de codificar JavaScript
 ### MinifiedconJavaScript: Está el CSS y HTML minificado después de codificar JavaScript
 ### sinJavaScript: Sólo están el CSS y los HTML sin minificar.
+#### Podrás ver que el HTML autoexamen de la rama 'sinJavaScript' es diferente al HTML autoexamen de la rama 'Master' ya que debido a que no he sabido verificar algunos elementos del formulario lo he tenido que cambiar.
