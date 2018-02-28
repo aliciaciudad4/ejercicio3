@@ -6,5 +6,5 @@
 ### He realizado 4 ramas donde podrás encontrar:
 ### Master: Puedes encontrar todos los documentos realizados 
 ### Minified: Sólo está el CSS y HTML minificado antes de codificar JavaScript
-### MinifiedJavaScript: Está el CSS y HTML minificado después de codificar JavaScript
-### sinJavaScript: Sólo están el CSS y los HTML
+### MinifiedconJavaScript: Está el CSS y HTML minificado después de codificar JavaScript
+### sinJavaScript: Sólo están el CSS y los HTML sin minificar.
